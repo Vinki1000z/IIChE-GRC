@@ -9,17 +9,17 @@ export default function Home() {
     const content = [
         {
             title: "Indian Institute of Chemical Engineers",
-            location: "Guwahati, India",
+            location: "Chandigarh, India",
             img: iiche_logo
         },
         {
-            title: "Indian Institute of Technology Guwahati",
+            title: "Indian Institute of Technology Chandigarh",
             location: "Assam, India",
             img: iitg_logo
         }
     ];
 
-    const bgImage = "https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80";
+    const bgImage = "https://images.shiksha.com/mediadata/images/1557746835phpD5Qz2C.jpeg";
 
     useEffect(() => {
         const interval = setInterval(() => {
@@ -106,12 +106,12 @@ export default function Home() {
 
             <div className="max-w-7xl mx-auto p-4 space-y-6">
                 <div className="bg-sky-50 p-4" data-aos="fade-up">
-                    <h1 className="text-sky-800 text-2xl font-medium">Guwahati Regional Centre (GRC)</h1>
+                    <h1 className="text-sky-800 text-2xl font-medium">Chandigarh Regional Centre (GRC)</h1>
                 </div>
 
                 <div className="space-y-4">
                     <p className="text-gray-700 leading-relaxed" data-aos="fade-up">
-                        It is one of the most active regional centres of IIChE, HQ of which is located in the Department of Chemical Engineering, IIT Guwahati. GRC is involved in the benefit of chemical engineers in North-eastern states through organizing meetings, conferences and seminars, arranging workshops and plant visits, refresher courses and counseling sessions, promoting research, confer awards and prizes, guiding chemical engineering students in their carrer planning, and initiating activities for the betterment of the social, technical and professional standards of their members.
+                        It is one of the most active regional centres of IIChE, HQ of which is located in the Department of Chemical Engineering, IIT Chandigarh. GRC is involved in the benefit of chemical engineers in North-eastern states through organizing meetings, conferences and seminars, arranging workshops and plant visits, refresher courses and counseling sessions, promoting research, confer awards and prizes, guiding chemical engineering students in their carrer planning, and initiating activities for the betterment of the social, technical and professional standards of their members.
                     </p>
                 </div>
             </div>

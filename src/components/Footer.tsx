@@ -37,7 +37,7 @@ export default function Footer() {
                     <div className="space-y-4 ">
                         <h2 className="text-purple-400 text-xl font-semibold">Contact Us</h2>
                         <p className="text-gray-300">
-                            Indian Institute of Chemical Engineers,Ghaziabad, Delhi NCR, Uttar Pradesh, India, PIN 201206
+                            Indian Institute of Chemical Engineers,Dr SS Bhatnagar University Chandigarh
                         </p>
                         <div className="pt-4">
                             <img

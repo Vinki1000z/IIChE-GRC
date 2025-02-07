@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { Menu, X, Home, Phone, CalendarFold, User2, Image, Bell, Mail, ChevronDown } from "lucide-react";
-import logo from './Images/logo.png';
+import logo from './Images/IIChE_Freshmen_1st_year_20250206_180950-removebg-preview.png';
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
@@ -108,7 +108,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="flex-shrink-0 hover:cursor-pointer">
-            <img src={logo} alt="Logo" className="h-10 w-auto" />
+            <img src={logo} alt="Logo" className="h-14 w-auto" />
           </Link>
 
           {/* Desktop Menu */}

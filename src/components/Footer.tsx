@@ -48,7 +48,7 @@ export default function Footer() {
                         </div>
                         <div className="flex items-center gap-2 text-gray-300">
                             <Mail size={16} />
-                            <span>Mail us at :- iiche.grc@iitg.ernet.in</span>
+                            <span>Mail us at :- ssbuicet.pu@gmail.com</span>
                         </div>
                     </div>
 

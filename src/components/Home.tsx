@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import iiche_logo from './Images/iiche-Logo.png';
-import iitg_logo from './Images/iitg-Logo.png';
+import iiche_logo from './Images/images (10).jpeg';
+import iitg_logo from './Images/Panjab_University_logo.png';
 import { Mail, Instagram, Linkedin, Youtube,MapPin } from 'lucide-react';
 export default function Home() {
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -111,7 +111,7 @@ export default function Home() {
 
                 <div className="space-y-4">
                     <p className="text-gray-700 leading-relaxed" data-aos="fade-up">
-                        It is one of the most active regional centres of IIChE, HQ of which is located in the Department of Chemical Engineering, IIT Chandigarh. GRC is involved in the benefit of chemical engineers in North-eastern states through organizing meetings, conferences and seminars, arranging workshops and plant visits, refresher courses and counseling sessions, promoting research, confer awards and prizes, guiding chemical engineering students in their carrer planning, and initiating activities for the betterment of the social, technical and professional standards of their members.
+                        It is one of the most active regional centres of IIChE, HQ of which is located in the Department of Chemical Engineering, Panjab University Chandigarh. GRC is involved in the benefit of chemical engineers in North-eastern states through organizing meetings, conferences and seminars, arranging workshops and plant visits, refresher courses and counseling sessions, promoting research, confer awards and prizes, guiding chemical engineering students in their carrer planning, and initiating activities for the betterment of the social, technical and professional standards of their members.
                     </p>
                 </div>
             </div>

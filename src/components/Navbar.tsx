@@ -51,8 +51,8 @@ const Navbar = () => {
         {
           title: "Students Chapter",
           subItems: [
-            { title: "IIT Guwahati", path: "/committee/students-chapter/iit-guwahati" },
-            { title: "Assam Engineering", path: "/committee/students-chapter/assam-engineering" }
+            { title: "Panjab University", path: "/committee/students-chapter/panjab-university" },
+            { title: "Chemical Engineering", path: "/committee/students-chapter/chemical-engineering" }
           ]
         },
         { title: "Members", path: "/committee/members" }

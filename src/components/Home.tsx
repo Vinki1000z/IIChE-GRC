@@ -13,8 +13,8 @@ export default function Home() {
             img: iiche_logo
         },
         {
-            title: "Indian Institute of Technology Chandigarh",
-            location: "Assam, India",
+            title: "Panjab University Chandigarh",
+            location: "Chandigarh, India",
             img: iitg_logo
         }
     ];
@@ -106,12 +106,12 @@ export default function Home() {
 
             <div className="max-w-7xl mx-auto p-4 space-y-6">
                 <div className="bg-sky-50 p-4" data-aos="fade-up">
-                    <h1 className="text-sky-800 text-2xl font-medium">Chandigarh Regional Centre (GRC)</h1>
+                    <h1 className="text-sky-800 text-2xl font-medium">Chandigarh Regional Centre (CRC)</h1>
                 </div>
 
                 <div className="space-y-4">
                     <p className="text-gray-700 leading-relaxed" data-aos="fade-up">
-                        It is one of the most active regional centres of IIChE, HQ of which is located in the Department of Chemical Engineering, Panjab University Chandigarh. GRC is involved in the benefit of chemical engineers in North-eastern states through organizing meetings, conferences and seminars, arranging workshops and plant visits, refresher courses and counseling sessions, promoting research, confer awards and prizes, guiding chemical engineering students in their carrer planning, and initiating activities for the betterment of the social, technical and professional standards of their members.
+                        It is one of the most active regional centres of IIChE, HQ of which is located in the Department of Chemical Engineering, Panjab University Chandigarh. CRC is involved in the benefit of chemical engineers in North-eastern states through organizing meetings, conferences and seminars, arranging workshops and plant visits, refresher courses and counseling sessions, promoting research, confer awards and prizes, guiding chemical engineering students in their carrer planning, and initiating activities for the betterment of the social, technical and professional standards of their members.
                     </p>
                 </div>
             </div>
